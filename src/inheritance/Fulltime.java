@@ -40,6 +40,7 @@ public class Fulltime extends Employee{
             double overtimepay=overtimerate*overtime;
             double netsalary=basicpay+overtimepay;
             System.out.println("Netsalary is"+netsalary);
+            System.out.println("Hello program");
 
         }
         else{
